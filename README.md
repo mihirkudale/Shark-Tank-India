@@ -1,1 +1,1 @@
-# SQL-Project---Shark-Tank-India
+# SQL-Project-Shark-Tank-India
